@@ -123,7 +123,7 @@ window.addEventListener('load', function () {
                 $copyInput.attr('type', 'hidden');
             });
         }
-    }
+    };
 
     initialiseTypeahead();
 }, false);
