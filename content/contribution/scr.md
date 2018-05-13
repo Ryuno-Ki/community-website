@@ -26,5 +26,4 @@ The SCR community has the ability to vote for or against packages/repositories
 in the SCR Build System.
 All the repositories provides packages in the binary form.
 
-{{< repository-modal >}}
 {{< disclaimer >}}
